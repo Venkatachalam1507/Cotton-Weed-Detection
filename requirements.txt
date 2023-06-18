@@ -3,3 +3,4 @@ json
 Pillow
 fastapi
 pandas
+uvicorn
