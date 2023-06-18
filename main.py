@@ -4,6 +4,7 @@ import json
 from PIL import Image
 from fastapi import File, FastAPI, Form
 import pandas as pd
+import io
 from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 
